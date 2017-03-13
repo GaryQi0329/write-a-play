@@ -1,2 +1,2 @@
 # write-a-play
-This si a play that everyone can edit.
+This is a play that everyone can edit.
